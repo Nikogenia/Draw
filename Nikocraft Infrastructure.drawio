@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T12:56:04.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ti-T3bEpppAPrc5PUy9e" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T13:02:25.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WuoZT9GsFDz5tFV4Kcd_" version="21.5.2" type="github">
   <diagram name="Seite-1" id="rwFWLKul-9h-OaAB62JV">
-    <mxGraphModel dx="2390" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#4D4D4D" math="0" shadow="1">
+    <mxGraphModel dx="2575" dy="1075" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#8C8C8C" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-1" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Nikocraft Infrastructure&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-1" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;Nikocraft Infrastructure&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="657" y="77" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bjPrxuy6d5Rh1bjDtbhj-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#A10000;sketch=1;strokeColor=#F01D1D;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="32" y="214" width="820" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-4" value="Hetzner Cloud" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-4" value="Hetzner Cloud" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="219.5" y="224" width="445" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bjPrxuy6d5Rh1bjDtbhj-11" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -184,7 +184,7 @@
             <mxPoint x="772" y="474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-30" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#666666;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-30" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#00994D;strokeColor=#006633;" vertex="1" parent="1">
           <mxGeometry x="982" y="184" width="480" height="240" as="geometry" />
         </mxCell>
         <mxCell id="bjPrxuy6d5Rh1bjDtbhj-31" value="" style="endArrow=none;html=1;rounded=0;fillColor=#FFFFFF;strokeColor=#B3B3B3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;shape=flexArrow;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" edge="1" parent="1" source="bjPrxuy6d5Rh1bjDtbhj-9" target="bjPrxuy6d5Rh1bjDtbhj-30">
@@ -196,7 +196,7 @@
         <mxCell id="bjPrxuy6d5Rh1bjDtbhj-78" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#0066CC;sketch=1;strokeColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="912" y="517" width="710" height="574" as="geometry" />
         </mxCell>
-        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-79" value="Homelab" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-79" value="Homelab" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1044.5" y="532" width="445" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bjPrxuy6d5Rh1bjDtbhj-80" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -317,7 +317,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-137" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;V1&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-137" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;V1&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="38" y="1064" width="131" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bjPrxuy6d5Rh1bjDtbhj-138" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -358,7 +358,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-171" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&amp;nbsp;Nikocraft 2023&amp;nbsp;© All rights reserved&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="bjPrxuy6d5Rh1bjDtbhj-171" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&amp;nbsp;Nikocraft 2023&amp;nbsp;© All rights reserved&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="66" y="1064" width="837" height="40" as="geometry" />
         </mxCell>
       </root>
