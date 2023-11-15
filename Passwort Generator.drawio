@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T18:12:00.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bfxrYL7QNINAaGlP0irz" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T18:15:13.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QMwGPdC7t-3GO7x5ZhE8" version="21.8.1" type="github">
   <diagram name="Seite-1" id="nKYYwXj5oOyGXuHnyCno">
-    <mxGraphModel dx="2514" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4412" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -933,6 +933,12 @@
         </mxCell>
         <mxCell id="CdOR40OmgFl1oFGRCvYQ-374" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;Datenflussdiagramm&lt;br&gt;Passwortgenerator&lt;br&gt;&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-801" y="430" width="269.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CdOR40OmgFl1oFGRCvYQ-375" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;ein Informatik Projekt von&lt;br&gt;&lt;/font&gt;Felix Berg&lt;br&gt;Jan Felix Eckert&lt;br&gt;Nikolas Beyer&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-801" y="504" width="269.5" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="CdOR40OmgFl1oFGRCvYQ-377" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;9T&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-733.5" y="664" width="134.5" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
