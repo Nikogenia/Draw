@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T18:08:14.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6B1DiICXPm0Zi3xSEMU4" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T18:08:36.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Th9fwiocBeFgvzFz0N6W" version="21.8.1" type="github">
   <diagram name="Seite-1" id="nKYYwXj5oOyGXuHnyCno">
-    <mxGraphModel dx="2876" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -849,7 +849,7 @@
         <mxCell id="CdOR40OmgFl1oFGRCvYQ-348" value="&quot;Ja&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400.25" y="860" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CdOR40OmgFl1oFGRCvYQ-349" value="26" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CdOR40OmgFl1oFGRCvYQ-349" value="10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="451" y="910" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CdOR40OmgFl1oFGRCvYQ-350" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -879,7 +879,7 @@
         <mxCell id="CdOR40OmgFl1oFGRCvYQ-358" value="&quot;Ja&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="669.12" y="860" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CdOR40OmgFl1oFGRCvYQ-359" value="26" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CdOR40OmgFl1oFGRCvYQ-359" value="15" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="719.87" y="910" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CdOR40OmgFl1oFGRCvYQ-360" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
