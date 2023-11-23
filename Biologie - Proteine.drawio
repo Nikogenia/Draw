@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T21:06:40.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="s3evddt7ar-56Ln-sFUX" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T21:09:10.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NyTu_-9uVYPSacN4GUj5" version="22.1.3" type="github">
   <diagram name="Seite-1" id="y05kICb7hbJ16dQobCVx">
     <mxGraphModel dx="1687" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,10 +59,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S5lOnqvkM723Wzm9ROxt-15" value="Gigantische Vielfalt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="115" y="360" width="180" height="40" as="geometry" />
+          <mxGeometry x="35" y="310" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S5lOnqvkM723Wzm9ROxt-17" value="20&lt;sup&gt;x&lt;/sup&gt; Kombinationen&lt;br&gt;(x = Anzahl der Aminosäuren" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="180" y="420" width="290" height="60" as="geometry" />
+          <mxGeometry x="100" y="370" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S5lOnqvkM723Wzm9ROxt-20" value="Aminosäuresequenz" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S5lOnqvkM723Wzm9ROxt-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.329;entryY=0.448;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S5lOnqvkM723Wzm9ROxt-20" target="Sh3Kve8ZjanPJpduxPtp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="490" as="sourcePoint" />
+            <mxPoint x="170" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5lOnqvkM723Wzm9ROxt-22" value="Reihenfolge entscheidet über Faltungen und Spiralen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="240" y="700" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S5lOnqvkM723Wzm9ROxt-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.72;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S5lOnqvkM723Wzm9ROxt-22" target="Sh3Kve8ZjanPJpduxPtp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="490" as="sourcePoint" />
+            <mxPoint x="170" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
